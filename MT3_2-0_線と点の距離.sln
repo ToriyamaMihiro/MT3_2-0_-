@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MT3_2-0_線と点の距離", "MT3_2-0_線と点の距離.vcxproj", "{B5045232-19B8-409F-AD8F-9AF766CD2D8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5045232-19B8-409F-AD8F-9AF766CD2D8C}.Debug|x64.ActiveCfg = Debug|x64
+		{B5045232-19B8-409F-AD8F-9AF766CD2D8C}.Debug|x64.Build.0 = Debug|x64
+		{B5045232-19B8-409F-AD8F-9AF766CD2D8C}.Release|x64.ActiveCfg = Release|x64
+		{B5045232-19B8-409F-AD8F-9AF766CD2D8C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BA803D4-B165-42B0-B3B3-D3C2E3A3E7A1}
+	EndGlobalSection
+EndGlobal
